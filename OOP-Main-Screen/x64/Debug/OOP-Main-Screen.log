@@ -1,0 +1,87 @@
+﻿  OOP-Main-Screen.cpp
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOP-Main-Screen.cpp')
+  C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsUser.h(26,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(219,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOP-Main-Screen.cpp')
+  C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(23,12):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(34,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(35,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(36,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(49,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(417,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(430,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsAddNewClientScreen.h(87,12): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsAddNewClientScreen.h(29,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsUpdateClientScreen.h(30,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsTotalBalancesScreen.h(56,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsTransferScreen.h(43,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsTransferScreen.h(48,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP-Main-Screen.cpp')
+  
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(372,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsBankClient.h(434,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\OOP-Main-Screen\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOP-Main-Screen.vcxproj -> C:\Users\HP Computer\Desktop\OOP-C++\Bank-System\x64\Debug\OOP-Main-Screen.exe
